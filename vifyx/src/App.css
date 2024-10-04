@@ -1,0 +1,18 @@
+button.active,
+div.active,
+a.block.active{
+    border-bottom: 2px solid #000;
+    padding-bottom: 4px;
+    color: #737373;
+    font-weight: medium;
+}
+
+
+h1 { font-size: 2em; }
+h2 { font-size: 1.5em; }
+h3 { font-size: 1.17em; }
+h4 { font-size: 1em; }
+h5 { font-size: 0.83em; }
+h6 { font-size: 0.67em; }
+
+
