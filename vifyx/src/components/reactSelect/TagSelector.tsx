@@ -15,7 +15,7 @@ const customStyles = {
     borderRadius:isMobile ? '5px' : '8px',
     color: "black",
     fontSize:isMobile ? '0.9em' : "1.2em",
-    boxShadow: "0px 0px 10px 0px rgba(0, 0, 0, 0.3)",}),
+    boxShadow: "0px 0px 15px 0px rgba(0, 0, 0, 0.5)",}),
 
   // Стили для выпадающего списка
   option: (provided: any, state: any) => ({
